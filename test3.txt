@@ -1,1 +1,6 @@
 welcome chandru
+//insert .>> add >> commit >> push
+insert>>
+add>>git add test3.txt
+commit >>git commit -m "created test3.txt"  >>git status
+push >> git push origin main
